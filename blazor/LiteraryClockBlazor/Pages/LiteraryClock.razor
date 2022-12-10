@@ -1,0 +1,143 @@
+﻿@page "/"
+@using System.Text.Json
+@using System.Text.Encodings.Web
+@using global::LiteraryClock.Common
+@inject HttpClient Http
+@inject Random Rnd;
+
+<style>
+	#lit_quote {
+		font-size: @(_fontSize)vw
+	}
+</style>
+<div class="body @(_dark?"dark":"") ">
+	<!-- <div id="time"></div> -->
+	@if (_quote == null)
+	{
+		<p><em>Loading...</em></p>
+	}
+	else
+	{
+		<div id="main_text">
+			<blockquote id="lit_quote">@_quote.Prefix<em>@_quote.Quote_time_case</em>@_quote.Suffix</blockquote>
+			<cite>
+				-
+				<span id="book">@_quote.Title</span>,
+				<span id="author">@_quote.Author</span>
+			</cite>
+		</div>
+		<br/>
+		<br/>
+
+		<div class="btn-group btn-group-toggle" data-toggle="buttons">
+			<label class="btn btn-secondary @(_sfw? "active": "")">
+				<input type="radio" name="options" autocomplete="off" 
+				       checked="@_sfw" 
+				       @onchange="()=>_sfw = true"> Safe For Work
+			</label>
+
+			<label class="btn btn-secondary @(_sfw?"":"active")">
+				<input type="radio" name="options" autocomplete="off" 
+				       checked="@(!_sfw)" 
+				       @onchange="()=>_sfw=false"> NOT Safe For Work
+			</label>
+		</div>
+		<br/>
+		<div class="btn-group btn-group-toggle" data-toggle="buttons">
+			<label class="btn btn-secondary @(_dark? "active": "")">
+				<input type="radio" name="options" autocomplete="off" 
+				       checked="@_dark"
+				       @onchange="()=>_dark = true"> Dark Theme
+			</label>
+
+			<label class="btn btn-secondary @(_dark?"":"active")">
+				<input type="radio" name="options" autocomplete="off"
+				       checked="@(!_dark)"
+				       @onchange="()=>_dark=false"> Light Theme
+			</label>
+		</div>
+
+	}
+	<div id="bottom">
+		<div id="github">
+			<a href="https://github.com/JohannesNE/literature-clock">GitHub</a>
+		</div>
+		<span id="based_on">
+			Based on work and ideas by
+			<a href="https://github.com/JohannesNE/literature-clock">Johs Enevoldsen</a>  <a href="https://twitter.com/JohsEnevoldsen">@@JohsEnevoldsen</a>
+			<a href="http://www.eerlijkemedia.nl/">Jaap Meijers</a> (
+			<a href="https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/">E-reader clock</a>) and
+			<a href="http://litclock.mohawkhq.com/">The Guardian</a>
+		</span>
+	</div>
+</div>
+
+@code {
+
+	private double _fontSize = 24;
+
+	private QuoteExt? _quote = null; 
+	private QuoteExt[]? _quotes = null;
+	private Timer? _timer;
+	private bool _sfw = false;
+	private bool _dark = false;
+
+	
+	protected override  Task OnInitializedAsync()
+	{
+		_timer = new Timer(obj => OnTimerCallback(), null, TimeSpan.Zero, TimeSpan.FromMinutes(1));
+		return Task.CompletedTask;
+	}
+
+	private void OnTimerCallback()
+	{
+		_ = InvokeAsync(() =>
+		{
+			UpdateText(DateTime.Now, _sfw);
+		});
+	}
+
+	protected async  void UpdateText(DateTime time,  bool sfw) 
+		{
+		var strTime =time.ToString("HH_mm");
+		QuoteExt[] quotes;
+		try
+		{
+			// ugh... It throws an exception if the file is not found.
+			quotes = await Http.GetFromJsonAsync<QuoteExt[]>($"times/{strTime}.json") ?? Array.Empty<QuoteExt>();
+		}
+		catch (Exception e)
+		{
+			quotes = Array.Empty<QuoteExt>();
+		}
+		if (sfw)
+			quotes = (from q in quotes where q.SafeForWork select q).ToArray();
+
+		if (quotes.Any())
+			_quotes = quotes;
+		else if (_quotes == null)
+		{
+			UpdateText(time.AddMinutes(-1), sfw);
+			return;
+		}
+		_quote = _quotes[Rnd.Next(quotes.Length)];
+
+	// get quote_len
+		var quote_len = _quote.Quote_first.Length +
+		                 _quote.Quote_time_case.Length +
+		                 _quote.Quote_last.Length;
+
+		_fontSize = 7.000864 - 0.01211676 * quote_len + 0.00001176814 * quote_len * quote_len - 1.969435e-9 * quote_len * quote_len * quote_len;
+
+
+		StateHasChanged();
+		}
+
+
+	public class QuoteExt : Quote
+	{
+		public bool SafeForWork => String.Compare(Sfw, "yes",StringComparison.InvariantCultureIgnoreCase) == 0;
+		public MarkupString Prefix => (MarkupString)(Quote_first ?? "");
+		public MarkupString Suffix => (MarkupString)(Quote_last ?? "");
+	}
+}

@@ -1,0 +1,123 @@
+﻿html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: auto;
+}
+
+/*
+#lit_quote {
+
+}
+*/
+#lit_quote em {
+	font-weight: 900;
+	color: rgb(19, 19, 19);
+	font-style: normal
+}
+
+#main_text {
+	width: 80vw;
+	margin: auto;
+	color: darkslateblue;
+	font-family: 'Merriweather', Times, serif;
+}
+
+cite {
+	float: right;
+	padding-left: 10vw;
+	font-size: 2.8vw;
+}
+
+cite #book {
+	font-style:italic
+}
+
+    cite #author {
+        font-style: normal;
+    }
+
+#buttom {
+	height: 10px;
+	width: 90%;
+	position: fixed;
+	bottom: 2%;
+	color: dimgray;
+	padding-left: 40px;
+	padding-right: 0px;
+}
+
+#buttom a, a:visited {
+	color: rgb(66, 66, 66)
+}
+
+#github {
+	display: inline;
+	padding-right: 5px;
+}
+
+#buttom span {
+	padding-left: 5px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-left-color: dimgray;
+}
+
+/* dark theme */
+.body.dark {
+	background: #181A1B;
+}
+
+.body.dark #lit_quote em {
+	color: rgb(220, 217, 212);
+}
+
+.body.dark #main_text, .body.dark #buttom {
+	color: rgb(166, 158, 146);
+}
+
+.body.dark #buttom a, a:visited {
+	color: rgb(190, 185, 176);
+}
+
+/*// Stolen from Bootstrap form radio buttons. */
+
+.btn-secondary {
+	color: #fff;
+	background-color: #6c757d;
+	border-color: #6c757d;
+	padding: 2px;
+}
+
+.btn-secondary:hover {
+	color: #fff;
+	background-color: #5a6268;
+	border-color: #545b62
+}
+
+.btn-secondary.focus, .btn-secondary:focus {
+	box-shadow: 0 0 0 .2rem rgba(130,138,145,.5)
+}
+
+.btn-secondary.disabled, .btn-secondary:disabled {
+	color: #fff;
+	background-color: #6c757d;
+	border-color: #6c757d
+}
+
+.btn-group-toggle > .btn input[type=radio], .btn-group-toggle > .btn-group > .btn input[type=radio] {
+	position: absolute;
+	clip: rect(0,0,0,0);
+	pointer-events: none
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active {
+	color: #fff;
+	background-color: #545b62;
+	border-color: #4e555b
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active:focus {
+	box-shadow: 0 0 0 .2rem rgba(130,138,145,.5)
+}
+

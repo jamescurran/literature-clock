@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\zames\source\repos\Tests\LiteraryClockBlazor\LiteraryClockBlazor\LiteraryClockBlazor\bin\Release\net6.0\browser-wasm\publish\</_PublishTargetUrl>
+    <History>True|2022-09-14T21:55:46.8001824Z;True|2022-09-14T17:50:11.3541844-04:00;True|2022-09-10T18:40:07.3157108-04:00;True|2022-08-10T06:19:54.1633766-04:00;True|2022-08-10T06:05:51.4766899-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32728.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiteraryClockBlazor", "LiteraryClockBlazor\LiteraryClockBlazor.csproj", "{0B90D438-965E-46D2-8DDD-5926F87F1677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvToJson", "CsvToJson\CsvToJson.csproj", "{439E05E1-315E-4950-890F-A253A1B74C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteraryClock.Common", "LiteraryClock.Common\LiteraryClock.Common.csproj", "{B4816258-A6ED-45AE-AC40-6B2D9E682BA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{332292D9-E105-4555-B5C8-AAC6D75DE412}"
+	ProjectSection(SolutionItems) = preProject
+		litclock_annotated.csv = litclock_annotated.csv
+		profanity_patterns.R = profanity_patterns.R
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B90D438-965E-46D2-8DDD-5926F87F1677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B90D438-965E-46D2-8DDD-5926F87F1677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B90D438-965E-46D2-8DDD-5926F87F1677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B90D438-965E-46D2-8DDD-5926F87F1677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439E05E1-315E-4950-890F-A253A1B74C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439E05E1-315E-4950-890F-A253A1B74C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439E05E1-315E-4950-890F-A253A1B74C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439E05E1-315E-4950-890F-A253A1B74C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4816258-A6ED-45AE-AC40-6B2D9E682BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4816258-A6ED-45AE-AC40-6B2D9E682BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4816258-A6ED-45AE-AC40-6B2D9E682BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4816258-A6ED-45AE-AC40-6B2D9E682BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7890A4E7-781C-4790-AE63-B9598062C6AD}
+	EndGlobalSection
+EndGlobal
