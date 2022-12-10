@@ -3,3 +3,6 @@
 .Rproj.user
 .vs/
 packrat/lib*/
+**/bin/
+**/obj/
+
