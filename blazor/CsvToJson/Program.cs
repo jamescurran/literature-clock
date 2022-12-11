@@ -57,6 +57,7 @@ class Program
 			{
 				WriteIndented = true,
 				Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
+				PropertyNamingPolicy = JsonNamingPolicy.CamelCase
 			});
 			await File.WriteAllTextAsync(pathName, jsonString,Encoding.UTF8);
 		}

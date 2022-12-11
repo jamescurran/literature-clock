@@ -1,4 +1,13 @@
-[
+﻿[
+  {
+    "time": "21:00",
+    "quote_first": "They who had to go to bed so punctually, for whom the lights went out at ",
+    "quote_time_case": "nine o'clock",
+    "quote_last": ", could stay at Obermeier Farm until the fireflies and the stars came out-until the Chinese lanterns were lit and they could walk once more about the farm with their jovial host and hostess with these beautiful, swaying, colored lights.",
+    "title": "Bright Valley of Love",
+    "author": "Edna Hong",
+    "sfw": "yes"
+  },
   {
     "time": "21:00",
     "quote_first": "The storm held off until ",
@@ -82,7 +91,7 @@
   },
   {
     "time": "21:00",
-    "quote_first": "Someone left a collection of books out on the curb one day on East Seventy-seventh Street, and I brought them home and read them all cover to cover. A history of drunk driving in America. An Indian cookbook. 𝘞𝘢𝘳 𝘢𝘯𝘥 𝘗𝘦𝘢𝘤𝘦. 𝘔𝘢𝘰 𝘐𝘐. 𝘐𝘵𝘢𝘭𝘪𝘢𝘯 𝘧𝘰𝘳 𝘋𝘶𝘮𝘮𝘪𝘦𝘴. A book of Mad Libs that I filled in myself using the simplest words I could think of. I passed the days like this for four or five weeks. I did not buy a cell phone. I got rid of the old mattress. Every night at ",
+    "quote_first": "Someone left a collection of books out on the curb one day on East Seventy-seventh Street, and I brought them home and read them all cover to cover. A history of drunk driving in America. An Indian cookbook. \uD835\uDE1E\uD835\uDE22\uD835\uDE33 \uD835\uDE22\uD835\uDE2F\uD835\uDE25 \uD835\uDE17\uD835\uDE26\uD835\uDE22\uD835\uDE24\uD835\uDE26. \uD835\uDE14\uD835\uDE22\uD835\uDE30 \uD835\uDE10\uD835\uDE10. \uD835\uDE10\uD835\uDE35\uD835\uDE22\uD835\uDE2D\uD835\uDE2A\uD835\uDE22\uD835\uDE2F \uD835\uDE27\uD835\uDE30\uD835\uDE33 \uD835\uDE0B\uD835\uDE36\uD835\uDE2E\uD835\uDE2E\uD835\uDE2A\uD835\uDE26\uD835\uDE34. A book of Mad Libs that I filled in myself using the simplest words I could think of. I passed the days like this for four or five weeks. I did not buy a cell phone. I got rid of the old mattress. Every night at ",
     "quote_time_case": "nine",
     "quote_last": " I lay down on the smooth hardwood floor with a stretch and a yawn, and I had no trouble sleeping.",
     "title": "My Year of Rest and Relaxation",
@@ -109,18 +118,9 @@
   },
   {
     "time": "21:00",
-    "quote_first": "“4:00, wallow in self-pity; 4:30, stare into the abyss; 5:00, solve world hunger, tell no one; 5:30, jazzercize; 6:30, dinner with me—I can’t cancel that again; 7:00, wrestle with my self-loathing… I’m booked. Of course, if I bump the loathing to ",
-    "quote_time_case": "9",
-    "quote_last": ", I could still be done in time to lay in bed, stare at the ceiling and slip slowly into madness.”",
-    "title": "How the Grinch Stole Christmas!",
-    "author": "The Grinch",
-    "sfw": "yes"
-  },
-  {
-    "time": "21:00",
-    "quote_first": "“However, at ",
+    "quote_first": "However, at ",
     "quote_time_case": "nine o’clock",
-    "quote_last": " the prince, in his velvet coat with a sable collar and cap, went out for his usual walk. &ldquo;",
+    "quote_last": " the prince, in his velvet coat with a sable collar and cap, went out for his usual walk.",
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "sfw": "yes"
@@ -139,7 +139,7 @@
     "quote_first": "",
     "quote_time_case": "9.00 p.m.",
     "quote_last": " Watch television or a video",
-    "title": "The Curious Incident of the Dog in the Night-time",
+    "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
     "sfw": "yes"
   },
@@ -147,23 +147,32 @@
     "time": "21:00",
     "quote_first": "At ",
     "quote_time_case": "2100",
-    "quote_last": " at night it&rsquo;s cold out.",
+    "quote_last": " at night it's cold out.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
     "sfw": "yes"
   },
   {
     "time": "21:00",
+    "quote_first": "I got home from working at Burger Boy tonight about ",
+    "quote_time_case": "nine o'clock",
+    "quote_last": ", and I was kind of suprised because the whole house was dark.",
+    "title": "Don't You Dare Read This, Mrs. Dunphrey",
+    "author": "Margaret Peterson Haddix",
+    "sfw": "yes"
+  },
+  {
+    "time": "21:00",
     "quote_first": "It was ",
     "quote_time_case": "nine o'clock",
-    "quote_last": " at night upon the second of August—the most terrible August in the history of the world. One might have thought already that God&rsquo;s curse hung heavy over a degenerate world, for there was an awesome hush and a feeling of vague expectancy in the sultry and stagnant air",
+    "quote_last": " at night upon the second of August—the most terrible August in the history of the world. One might have thought already that God's curse hung heavy over a degenerate world, for there was an awesome hush and a feeling of vague expectancy in the sultry and stagnant air",
     "title": "His Last Bow An Epilogue of Sherlock Holmes",
     "author": "Arthur Conan Doyle",
     "sfw": "yes"
   },
   {
     "time": "21:00",
-    "quote_first": "On the evening before K.&rsquo;s thirty-first birthday - it was about ",
+    "quote_first": "On the evening before K.'s thirty-first birthday - it was about ",
     "quote_time_case": "nine o'clock",
     "quote_last": ", when there is a lull in the streets - two gentlemen came to his apartment.",
     "title": "The Trial",
@@ -183,7 +192,7 @@
     "time": "21:00",
     "quote_first": "Shortly after ",
     "quote_time_case": "nine o'clock",
-    "quote_last": " that evening, Weyrother drove with his plans to Kutuzov&rsquo;s quarters where the council of war was to be held. All the commanders of columns were summoned to the commander in chief&rsquo;s and with the exception of Prince Bagration, who declined to come, were all there at the appointed time.",
+    "quote_last": " that evening, Weyrother drove with his plans to Kutuzov's quarters where the council of war was to be held. All the commanders of columns were summoned to the commander in chief's and with the exception of Prince Bagration, who declined to come, were all there at the appointed time.",
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "sfw": "yes"
@@ -192,7 +201,7 @@
     "time": "21:00",
     "quote_first": "Standing in the chrome-and-tile desolation of the Polar-Shtern Kafeteria at ",
     "quote_time_case": "nine o'clock",
-    "quote_last": " on a Friday night, in a snowstorm, he&rsquo;s the loneliest Jew in the Sitka District.",
+    "quote_last": " on a Friday night, in a snowstorm, he's the loneliest Jew in the Sitka District.",
     "title": "The Yiddish Policemen's Union",
     "author": "Michael Chabon",
     "sfw": "yes"
@@ -223,5 +232,14 @@
     "title": "Titus Groan",
     "author": "Mervyn Peake",
     "sfw": "yes"
+  },
+  {
+    "time": "21:00",
+    "quote_first": "At ",
+    "quote_time_case": "nine o’clock",
+    "quote_last": " in the evening I was sitting among my friends writing, while they talked around me. I became aware that it was gradually growing easier for me to express myself; my pen glanced presently like lightning in the effort to keep neck and neck with my ideas.",
+    "title": "The Hasheesh Eater",
+    "author": "Fitz Hugh Ludlow",
+    "sfw": "no"
   }
 ]

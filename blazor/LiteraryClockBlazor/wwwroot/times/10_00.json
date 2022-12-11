@@ -1,21 +1,30 @@
-[
+﻿[
   {
     "time": "10:00",
-    "quote_first": "“Shanghai’s clocks were set an hour ahead so the city could ‘save daylight’, but the Bai family said: “We go by the old clock.” ",
+    "quote_first": "At about ",
+    "quote_time_case": "ten o’clock",
+    "quote_last": " the first tiny snowflakes came loitering down and settled on Jill’s arm. Ten minutes later they were falling quite thickly. In twenty minutes the ground was noticeably white.",
+    "title": "The Silver Chair",
+    "author": "C.S.Lewis",
+    "sfw": "yes"
+  },
+  {
+    "time": "10:00",
+    "quote_first": "Shanghai’s clocks were set an hour ahead so the city could \"save daylight\", but the Bai family said: “We go by the old clock.” ",
     "quote_time_case": "Ten o’clock",
-    "quote_last": " to them was eleven to everyone else. Their singing was behind the beat; they couldn’t keep up with the huqin<br>Chinese string instrument producing bleak and desolate sounds] of life.”",
+    "quote_last": " to them was eleven to everyone else. Their singing was behind the beat; they couldn’t keep up with the huqin [Chinese string instrument] producing bleak and desolate sounds of life.",
     "title": "Love in a Fallen City",
     "author": "Eileen Chang",
     "sfw": "yes"
   },
   {
     "time": "10:00",
-    "quote_first": "“It was at ",
+    "quote_first": "It was at ",
     "quote_time_case": "ten o’clock",
-    "quote_last": " to-day that the first of all Time Machines began its career. I gave it a last tap, tried all the screws again, put one more drop of oil on the quartz rod, and sat myself in the saddle. I suppose a suicide who holds a pistol to his skull feels much the same wonder at what will come next as I felt then.”",
+    "quote_last": " to-day that the first of all Time Machines began its career. I gave it a last tap, tried all the screws again, put one more drop of oil on the quartz rod, and sat myself in the saddle. I suppose a suicide who holds a pistol to his skull feels much the same wonder at what will come next as I felt then.",
     "title": "The Time Machine",
     "author": "H.G. Wells",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "10:00",
@@ -24,19 +33,20 @@
     "quote_last": " on a Saturday.",
     "title": "Real Life",
     "author": "Brandon Taylor",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "10:00",
-    "quote_first": "“The ",
-    "quote_time_case": "ten-o’ clock",
-    "quote_last": " breakfasters began to appear: nervous, little men, morose, preoccupied, who wiped their plates with crusts of bread; rude, massive women who, like primitive idols dug out of the soil, had grown rotten in the years; flowery dandies with repulsive faces, reminding him uncomfortably of illustrations in medical tracts.”",
+    "quote_first": "The ",
+    "quote_time_case": "ten-o’clock",
+    "quote_last": " breakfasters began to appear: nervous, little men, morose, preoccupied, who wiped their plates with crusts of bread; rude, massive women who, like primitive idols dug out of the soil, had grown rotten in the years; flowery dandies with repulsive faces, reminding him uncomfortably of illustrations in medical tracts.",
+    "title": "Crazy Cook",
     "author": "Henry Miller",
     "sfw": "yes"
   },
   {
     "time": "10:00",
-    "quote_first": "There are some good things about  living alone. The room is cool, but cool air tones up the skin. One nice thing about her job is that it doesn’t start until ",
+    "quote_first": "There are some good things about living alone. The room is cool, but cool air tones up the skin. One nice thing about her job is that it doesn’t start until ",
     "quote_time_case": "ten",
     "quote_last": ", which gives her a long morning, time to grow slowly into her day.",
     "title": "The Robber Bride",
@@ -65,7 +75,7 @@
     "time": "10:00",
     "quote_first": "It was ",
     "quote_time_case": "ten o’clock",
-    "quote_last": ". And now he is dead, and the police will be called in, and I shall be suspected of having had a hand in it. Oh, yes, I am sure I shall. But you don’t think so, gentlemen? Surely you don’t think that it was I? Is it likely that I would have brought you here if it were I? Oh dear! oh dear! I know that I shall go mad!",
+    "quote_last": ". And now he is dead, and the police will be called in, and I shall be suspected of having had a hand in it. Oh, yes, I am sure I shall.",
     "title": "The Sign of Four",
     "author": "Sir Arthur Conan Doyle",
     "sfw": "yes"
@@ -113,7 +123,7 @@
     "quote_last": " the next morning, she was gone, leaving only an indentation like a missing memory in the pillow next to his, and a note: “I have to go to work. Get in touch with me if you like.” She included her cell phone number.",
     "title": "Blind Willow, Sleeping Woman",
     "author": "Haruki Murakami",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "10:00",
@@ -131,7 +141,7 @@
     "quote_last": ". At ten o’clock she was lying on the divan with her boobies in her hands. That’s the way he gives it to me—in driblets.",
     "title": "Tropic of Cancer",
     "author": "Henry Miller",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "10:00",
@@ -146,7 +156,7 @@
     "time": "10:00",
     "quote_first": "By ",
     "quote_time_case": "ten o’clock",
-    "quote_last": " she was ravenous. She cooked herself a huge brunch and ate every bite. Then she took her movie back to Blockbuster and asked if they had 𝘒𝘪𝘴𝘴 𝘰𝘧 𝘋𝘦𝘢𝘵𝘩. They didn’t, but after ten minutes of browsing, she settled on a substitute called 𝘓𝘢𝘴𝘵 𝘏𝘰𝘶𝘴𝘦 𝘰𝘯 𝘵𝘩𝘦 𝘓𝘦𝘧𝘵.",
+    "quote_last": " she was ravenous. She cooked herself a huge brunch and ate every bite. Then she took her movie back to Blockbuster and asked if they had \uD835\uDE12\uD835\uDE2A\uD835\uDE34\uD835\uDE34 \uD835\uDE30\uD835\uDE27 \uD835\uDE0B\uD835\uDE26\uD835\uDE22\uD835\uDE35\uD835\uDE29. They didn’t, but after ten minutes of browsing, she settled on a substitute called \uD835\uDE13\uD835\uDE22\uD835\uDE34\uD835\uDE35 \uD835\uDE0F\uD835\uDE30\uD835\uDE36\uD835\uDE34\uD835\uDE26 \uD835\uDE30\uD835\uDE2F \uD835\uDE35\uD835\uDE29\uD835\uDE26 \uD835\uDE13\uD835\uDE26\uD835\uDE27\uD835\uDE35.",
     "title": "Full Dark, No Stars",
     "author": "Stephen King",
     "sfw": "yes"
@@ -155,16 +165,16 @@
     "time": "10:00",
     "quote_first": "",
     "quote_time_case": "Ten o’clock",
-    "quote_last": " the mail comes up. Sometimes you get the torn envelope&hellip; .",
+    "quote_last": " the mail comes up. Sometimes you get the torn envelope.",
     "title": "One Flew Over the Cuckoo’s Nest",
     "author": "Ken Kesey",
     "sfw": "yes"
   },
   {
     "time": "10:00",
-    "quote_first": "Frodo woke and found himself lying in bed…<br>‘Where am I, and what is the time?’ he said aloud to the ceiling.<br>‘In the House of Elrond, and it is ",
+    "quote_first": "Frodo woke and found himself lying in bed. <br>\"Where am I, and what is the time?\" he said aloud to the ceiling.<br>\"In the House of Elrond, and it is ",
     "quote_time_case": "ten o’clock in the morning",
-    "quote_last": ".’ said<br>Gandalf]. ‘It is the morning of October the twenty-fourth, if you want to know.’",
+    "quote_last": ",\" said Gandalf. \"It is the morning of October the twenty-fourth, if you want to know.\"",
     "title": "The Fellowship of the Ring",
     "author": "J.R.R Tolkien",
     "sfw": "yes"
@@ -173,10 +183,10 @@
     "time": "10:00",
     "quote_first": "They brought him back to the ward about ",
     "quote_time_case": "ten in the morning",
-    "quote_last": "—&quot;Fulla piss an’ vinegar, buddies; they checked my plugs and cleaned my points, and I got a glow on like a Model T spark coil. Ever use one of those coils around Halloween time? 𝘡𝘢𝘮! Good clean fun.&ldquo;",
+    "quote_last": "—\"Fulla piss an’ vinegar, buddies; they checked my plugs and cleaned my points, and I got a glow on like a Model T spark coil. Ever use one of those coils around Halloween time? \uD835\uDE21\uD835\uDE22\uD835\uDE2E! Good clean fun.\"",
     "title": "One Flew Over the Cuckoo’s Nest",
     "author": "Ken Kesey",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "10:00",
@@ -211,14 +221,14 @@
     "quote_time_case": "ten o’clock",
     "quote_last": " every Tuesday, while San Giovanni’s bubbled away obligingly whenever it heard Holy Scripture.",
     "title": "The Wedding Officer",
-    "author": "by Anthony Capella",
+    "author": "Anthony Capella",
     "sfw": "yes"
   },
   {
     "time": "10:00",
-    "quote_first": "––In assaying to put on his regimental coat and waistcoat, my uncle Toby found the same objection in his wig, ––so that went off too: ––So that with one thing and what with another, as always falls out when a man is in the most haste, ––'twas ",
+    "quote_first": "In assaying to put on his regimental coat and waistcoat, my uncle Toby found the same objection in his wig, so that went off too; So that with one thing and what with another, as always falls out when a man is in the most haste, 'twas ",
     "quote_time_case": "ten o'clock",
-    "quote_last": ", which was half an hour later than his usual time before my uncle Toby sallied out.",
+    "quote_last": ", which was half an hour later than his usual time, before my uncle Toby sallied out.",
     "title": "Tristram Shandy",
     "author": "Laurence Sterne",
     "sfw": "yes"
@@ -254,8 +264,8 @@
     "time": "10:00",
     "quote_first": "According to military records no US bombers or any other kind of aircraft were flying over that region at the time, that is around ",
     "quote_time_case": "10 am",
-    "quote_last": " on November 7,1944.",
-    "title": "Kafka on the shore",
+    "quote_last": " on November 7, 1944.",
+    "title": "Kafka on the Shore",
     "author": "Haruki Murakami",
     "sfw": "yes"
   },
@@ -288,7 +298,7 @@
   },
   {
     "time": "10:00",
-    "quote_first": "King Richard: Well, but what&rsquo;s o'clock? Buckingham: Upon the stroke of ",
+    "quote_first": "King Richard: Well, but what's o'clock?<br/>Buckingham: Upon the stroke of ",
     "quote_time_case": "ten",
     "quote_last": ".",
     "title": "Richard III",
@@ -311,13 +321,13 @@
     "quote_last": " she is lowered into her cool grave, at 7:30 that same evening we see our first floes and greet them wishing they were the last.",
     "title": "The Terrors of Ice and Darkness",
     "author": "Christoph Ransmayr",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "10:00",
-    "quote_first": "The pundit sighed. &lsquo;Only a fool like me would leave his door open when a riot can occur at any moment, and only a fool like me would say yes to you,&rsquo; he said. &lsquo;What time?&rsquo; Just his head was sticking out of the partially opened door. The money from blessing the ice-cream factory must have dulled his desire for work, I thought. &lsquo;Ten.&rsquo; &lsquo;",
-    "quote_time_case": "Ten-thirty",
-    "quote_last": ".&rsquo; Without another word, he closed the door.",
+    "quote_first": "The pundit sighed. \"Only a fool like me would leave his door open when a riot can occur at any moment, and only a fool like me would say yes to you,\" he said. \"What time?\" Just his head was sticking out of the partially opened door. The money from blessing the ice-cream factory must have dulled his desire for work, I thought. \"",
+    "quote_time_case": "Ten",
+    "quote_last": ".\" \"Ten-thirty.\" Without another word, he closed the door.",
     "title": "An Obedient Father",
     "author": "Akhil Sharma",
     "sfw": "yes"
@@ -326,27 +336,18 @@
     "time": "10:00",
     "quote_first": "The Saturday immediately preceding the examinations was a very busy day for Kennedy. At ",
     "quote_time_case": "ten o' clock",
-    "quote_last": " he was entering Willey&rsquo;s room; the latter had given him a key and left the room vacant by previous arrangement - in fact he had taken Olivia on another house hunting trip.",
-    "title": "The Greeks have a word for it",
+    "quote_last": " he was entering Willey's room; the latter had given him a key and left the room vacant by previous arrangement - in fact he had taken Olivia on another house hunting trip.",
+    "title": "The Greeks Have a Word for It",
     "author": "Barry Unsworth",
     "sfw": "yes"
   },
   {
     "time": "10:00",
-    "quote_first": "The summer holidays were near at hand when I made up my mind to break out of the weariness of school-life for one day at least. With Leo Dillon and a boy named Mahoney I planned a day&rsquo;s mitching. Each of us saved up sixpence. We were to meet ",
-    "quote_time_case": "at ten",
-    "quote_last": " in the morning on the Canal Bridge.",
+    "quote_first": "The summer holidays were near at hand when I made up my mind to break out of the weariness of school-life for one day at least. With Leo Dillon and a boy named Mahoney I planned a day's mitching. Each of us saved up sixpence. We were to meet at ",
+    "quote_time_case": "ten in the morning",
+    "quote_last": " on the Canal Bridge.",
     "title": "Dubliners",
     "author": "James Joyce",
-    "sfw": "yes"
-  },
-  {
-    "time": "10:00",
-    "quote_first": "The written verdict was handed down at ",
-    "quote_time_case": "10:00",
-    "quote_last": " on Friday morning, and allthat remained was a summing up from the reporters waiting in the corridor outside the district court.",
-    "title": "The girl with the dragon tattoo",
-    "author": "Stieg Larsson",
     "sfw": "yes"
   }
 ]

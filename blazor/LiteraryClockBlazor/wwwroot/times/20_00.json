@@ -1,4 +1,13 @@
-[
+﻿[
+  {
+    "time": "20:00",
+    "quote_first": "Charlie glanced at the clock over the bar and saw it was ",
+    "quote_time_case": "eight o’clock",
+    "quote_last": ", but the other men were coming over to talk, and he realized he might not be able to pry his father loose from the gaggle of admirers. Especially if they brought him drinks.",
+    "title": "Blue Springs",
+    "author": "Peter Rennebohm",
+    "sfw": "yes"
+  },
   {
     "time": "20:00",
     "quote_first": "The ten directors now sitting in the conference room were irritable and impatient. It was ",
@@ -10,9 +19,9 @@
   },
   {
     "time": "20:00",
-    "quote_first": "On the wall above the cupboard, invisible save at night, by lamplight and even then evincing an enigmatic profundity because it had but one hand, a cabinet clock ticked, then with a preliminary sound as if it had cleared its throat, struck five times.<br>‘",
+    "quote_first": "On the wall above the cupboard, invisible save at night, by lamplight and even then evincing an enigmatic profundity because it had but one hand, a cabinet clock ticked, then with a preliminary sound as if it had cleared its throat, struck five times.<br>\"",
     "quote_time_case": "Eight o’clock",
-    "quote_last": ",’ Dilsey said.",
+    "quote_last": ",\" Dilsey said.",
     "title": "The Sound and the Fury",
     "author": "William Faulkner",
     "sfw": "yes"
@@ -100,9 +109,9 @@
   },
   {
     "time": "20:00",
-    "quote_first": "“Then the grandfather’s clock in the hall outside struck ",
+    "quote_first": "Then the grandfather’s clock in the hall outside struck ",
     "quote_time_case": "eight",
-    "quote_last": ", and the memory of the night before came to him.”",
+    "quote_last": ", and the memory of the night before came to him.",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
     "sfw": "yes"
@@ -127,18 +136,18 @@
   },
   {
     "time": "20:00",
-    "quote_first": "&lsquo;TIS ",
+    "quote_first": "'TIS ",
     "quote_time_case": "eight o'clock",
-    "quote_last": ",&ndash;a clear March night, The moon is up,&ndash;the sky is blue, The owlet, in the moonlight air, Shouts from nobody knows where; He lengthens out his lonely shout, Halloo! halloo! a long halloo!",
+    "quote_last": ", a clear March night, The moon is up, the sky is blue, The owlet, in the moonlight air, Shouts from nobody knows where; He lengthens out his lonely shout, Halloo! halloo! a long halloo!",
     "title": "The Idiot Boy",
     "author": "William Wordsworth",
     "sfw": "yes"
   },
   {
     "time": "20:00",
-    "quote_first": "&ldquo;I trace the words, I&rsquo;ll arrive to collect you for drinks ",
+    "quote_first": "I trace the words, 'I'll arrive to collect you for drinks ",
     "quote_time_case": "at eight",
-    "quote_last": " on Saturday.&quot;",
+    "quote_last": " on Saturday.'",
     "title": "Tell-All",
     "author": "Chuck Palahniuk",
     "sfw": "yes"
@@ -148,7 +157,7 @@
     "quote_first": "",
     "quote_time_case": "8.00 p.m.",
     "quote_last": " Have a bath",
-    "title": "The Curious Incident of the Dog in the Night-time",
+    "title": "The Curious Incident of the Dog in the Night-Time",
     "author": "Mark Haddon",
     "sfw": "yes"
   },
@@ -172,25 +181,16 @@
   },
   {
     "time": "20:00",
-    "quote_first": "Freud had me knock on Jung&rsquo;s door, to no avail. They waited until ",
+    "quote_first": "Freud had me knock on Jung's door, to no avail. They waited until ",
     "quote_time_case": "eight",
-    "quote_last": ", then set off for Brill&rsquo;s without him.",
+    "quote_last": ", then set off for Brill's without him.",
     "title": "The Interpretation Of Murder",
     "author": "Jed Rubenfeld",
     "sfw": "yes"
   },
   {
     "time": "20:00",
-    "quote_first": "I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it. although until after ",
-    "quote_time_case": "eight o'clock",
-    "quote_last": " the apartment was full of cheerful sun.",
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "sfw": "yes"
-  },
-  {
-    "time": "20:00",
-    "quote_first": "It&rsquo;s the twenty-third of June nineteen seventy-five, and it is ",
+    "quote_first": "It's the twenty-third of June nineteen seventy-five, and it is ",
     "quote_time_case": "eight o'clock",
     "quote_last": " in the evening, seated at his jigsaw puzzle, Bartlebooth has just died.",
     "title": "Life: A User's Manual",
@@ -210,7 +210,7 @@
     "time": "20:00",
     "quote_first": "That day he forgot to go to dinner; he noticed the fact ",
     "quote_time_case": "at eight",
-    "quote_last": " in the evening, and as it was too late to go to the Rue St Jaques, he ate a lump of bread.",
+    "quote_last": " in the evening, and as it was too late to go to the Rue St. Jaques, he ate a lump of bread.",
     "title": "Les Miserables",
     "author": "Victor Hugo",
     "sfw": "yes"
@@ -223,5 +223,23 @@
     "title": "Sense and Sensibility",
     "author": "Jane Austen",
     "sfw": "yes"
+  },
+  {
+    "time": "20:00",
+    "quote_first": "Upon one of the largest and most beautiful of the steamers which ever glided down the shining pathway of the river upon a moonlight night of summer, I stepped, at ",
+    "quote_time_case": "eight o’clock",
+    "quote_last": " in the evening, accompanied by several of my friends, and carrying in my pocket a box of boluses. The gangplank was drawn in, and we were on our way.",
+    "title": "The Hasheesh Eater",
+    "author": "Fitz Hugh Ludlow",
+    "sfw": "no"
+  },
+  {
+    "time": "20:00",
+    "quote_first": "But to return from my digression. It was perhaps ",
+    "quote_time_case": "eight o’clock",
+    "quote_last": " in the evening when I took the dose of fifty grains.",
+    "title": "The Hasheesh Eater",
+    "author": "Fitz Hugh Ludlow",
+    "sfw": "no"
   }
 ]

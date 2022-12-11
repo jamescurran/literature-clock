@@ -1,4 +1,13 @@
-[
+﻿[
+  {
+    "time": "20:30",
+    "quote_first": "The dogs gave up and started to wander by ",
+    "quote_time_case": "8:30 P.M.",
+    "quote_last": " John was numb by then. It was twenty degrees, and he was unsure how much longer he could stay on top of the truck exposed to the wind and cold.",
+    "title": "French Creek",
+    "author": "Peter Rennebohm",
+    "sfw": "yes"
+  },
   {
     "time": "20:30",
     "quote_first": "In the evening, I roll over alone to an empty bottle of malbec by the bed. A sleek table clock says it’s ",
@@ -23,7 +32,7 @@
     "quote_time_case": "half past eight",
     "quote_last": " Millicent Hammitt barged in, without a preliminary knock, to say goodbye.",
     "title": "The Black Tower",
-    "author": "PD James",
+    "author": "P.D. James",
     "sfw": "yes"
   },
   {
@@ -42,7 +51,7 @@
     "quote_last": ", I called and said, “I’ve been thinking I might get a boob job, just take them clean off. What do you think? Could I pull off the flat-chested look?”",
     "title": "My Year of Rest and Relaxation",
     "author": "Ottessa Moshfegh",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "20:30",
@@ -64,16 +73,16 @@
   },
   {
     "time": "20:30",
-    "quote_first": "Alix took up a piece of needlework and began to stitch. Gerald read a few pages of his book. Then he glanced up at the clock and tossed the book away. &ldquo;",
+    "quote_first": "Alix took up a piece of needlework and began to stitch. Gerald read a few pages of his book. Then he glanced up at the clock and tossed the book away. \"",
     "quote_time_case": "Half-past eight",
-    "quote_last": ". Time to go down to the cellar and start work.&rdquo;",
+    "quote_last": ". Time to go down to the cellar and start work.\"",
     "title": "The Listerdale Mystery",
     "author": "Agatha Christie",
     "sfw": "yes"
   },
   {
     "time": "20:30",
-    "quote_first": "The bicycles go by in twos and threes - there&rsquo;s a dance on in Billy Brennan&rsquo;s barn tonight, and there&rsquo;s the half-talk code of mysteries and the wink-and-elbow language of delight. ",
+    "quote_first": "The bicycles go by in twos and threes - there's a dance on in Billy Brennan's barn tonight, and there's the half-talk code of mysteries and the wink-and-elbow language of delight. ",
     "quote_time_case": "Half-past eight",
     "quote_last": " and there is not a spot upon a mile of road, no shadow thrown that might turn out a man or woman,",
     "title": "Inniskeen Road: July Evening",

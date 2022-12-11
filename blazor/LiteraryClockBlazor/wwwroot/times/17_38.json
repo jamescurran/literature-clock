@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "time": "17:38",
     "quote_first": "And then I see something I recognise. Some little green digits, glowing in the blackness. It’s Ben’s alarm clock. Somehow I’m back here, in the apartment. I blink the numbers. ",
@@ -6,6 +6,15 @@
     "quote_last": ". But that can’t be right. That’s the afternoon.",
     "title": "The Paris Apartment",
     "author": "Lucy Foley",
+    "sfw": "yes"
+  },
+  {
+    "time": "17:38",
+    "quote_first": "He stares at the phone, thinks: Ring. Ring now. But it remains inert. ",
+    "quote_time_case": "5.38 p.m.",
+    "quote_last": " Bunny will be done with her housekeeping shift by now.",
+    "title": "Cloud Cuckoo Land",
+    "author": "Anthony Doerr",
     "sfw": "yes"
   },
   {

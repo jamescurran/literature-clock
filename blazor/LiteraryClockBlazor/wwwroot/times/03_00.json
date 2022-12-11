@@ -1,4 +1,22 @@
-[
+﻿[
+  {
+    "time": "03:00",
+    "quote_first": "At ",
+    "quote_time_case": "3:00 A.M.",
+    "quote_last": ", a gray DeSoto Diplomat cruised up and down Oliver Avenue. The lone occupant looked for any sign of movement---anything out of the ordinary.",
+    "title": "Blue Springs",
+    "author": "Peter Rennebohm",
+    "sfw": "yes"
+  },
+  {
+    "time": "03:00",
+    "quote_first": "Worst of all was that Henrick used such pointed and mercilessly concrete examples. If he was preaching about mercy, he would describe the lot of the poor in such a way that the people could picture someone of the captain's many crofters leaving his home at ",
+    "quote_time_case": "three o'clock in the morning",
+    "quote_last": " with a sack of grain on his back, how he slaved in the fields, how he often must go without the noon meal in order to get to the mill at last after thirteen hours of labor and after picking up his flour, return home through the woods, carrying his heavy load.",
+    "title": "The Hammer of God",
+    "author": "Bo Giertz",
+    "sfw": "yes"
+  },
   {
     "time": "03:00",
     "quote_first": "The scent and smoke and sweat of a casino are nauseating at ",
@@ -93,7 +111,7 @@
     "time": "03:00",
     "quote_first": "About ",
     "quote_time_case": "three o’clock",
-    "quote_last": " the four couples, frightened at their happiness, were sliding down the Russian mountains, a singular edifice which then occupied the heights of Beaujon, and whose undulating line was visible above the trees of the Champs  Élysées.",
+    "quote_last": " the four couples, frightened at their happiness, were sliding down the Russian mountains, a singular edifice which then occupied the heights of Beaujon, and whose undulating line was visible above the trees of the Champs Élysées.",
     "title": "Les Misérables",
     "author": "Victor Hugo",
     "sfw": "yes"
@@ -109,9 +127,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "“My dear Mr. Sherlock Holmes:<br>“There has been a bad business during the night at ",
+    "quote_first": "My dear Mr. Sherlock Holmes:<br>There has been a bad business during the night at ",
     "quote_time_case": "3",
-    "quote_last": ", Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss.”",
+    "quote_last": ", Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss.",
     "title": "A Study in Scarlet",
     "author": "Sir Arthur Conan Doyle",
     "sfw": "yes"
@@ -177,7 +195,7 @@
     "quote_last": ", after an evening’s work. She looks exactly as if she had just stepped out of a Turkish bath.",
     "title": "Tropic of Cancer",
     "author": "Henry Miller",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "03:00",
@@ -192,7 +210,7 @@
     "time": "03:00",
     "quote_first": "Jarvis whistled through his teeth. “Will the law help a man of your years bounce back from multiple spinal fractures, Timothy?”<br>Eddie: “Men of your age don’t bounce. They splat.”<br>I fought with all my might, but my sphincter was no longer my own and a cannonade fired off. Amusement or condescension I could have borne, but my tormentors’ pity signified my abject defeat. The toilet chain was pulled.<br>“",
     "quote_time_case": "Three o’clock",
-    "quote_last": ",” Cavendish-Redux went down the pan. Out trooped the thugs, over my prostrate door. Eddie turned for a last word. “Dermot did a nice little paragraph in his book. On loan defaulters.”",
+    "quote_last": ",” Cavendish-Redux went down the pan.",
     "title": "Cloud Atlas",
     "author": "David Mitchell",
     "sfw": "yes"
@@ -217,7 +235,7 @@
   },
   {
     "time": "03:00",
-    "quote_first": "Spent last night working on a rumbling ’cello 𝘢𝘭𝘭𝘦𝘨𝘳𝘰 lit by explosive triplets. Silence punctuated by breakneck mousetraps. Remember the church clock chiming ",
+    "quote_first": "Spent last night working on a rumbling ’cello \uD835\uDE22\uD835\uDE2D\uD835\uDE2D\uD835\uDE26\uD835\uDE28\uD835\uDE33\uD835\uDE30 lit by explosive triplets. Silence punctuated by breakneck mousetraps. Remember the church clock chiming ",
     "quote_time_case": "three A.M.",
     "quote_last": " “I heard an owl,” Huckleberry Finn says, “away and off, who-whooing about somebody that was dead, and a whippowill and a dog crying about somebody that was going to die.”",
     "title": "Cloud Atlas",
@@ -244,16 +262,7 @@
   },
   {
     "time": "03:00",
-    "quote_first": "It was nearly ",
-    "quote_time_case": "one o’clock",
-    "quote_last": " when Sherlock Holmes returned from his excursion. He held in his hand a sheet of blue paper, scrawled over with notes and figures.",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Sir Arthur Conan Doyle",
-    "sfw": "yes"
-  },
-  {
-    "time": "03:00",
-    "quote_first": "It did not help, either, that she had been up half the night with Josie, who’d awakened from a nightmare<br>about a boa constrictor and refused to go back to sleep. Alex didn’t know who<br>the other candidates were for this position, but she’d wager that they weren’t single moms who’d had to poke the radiator vents with a yardstick at ",
+    "quote_first": "It did not help, either, that she had been up half the night with Josie, who’d awakened from a nightmare<br>about a boa constrictor and refused to go back to sleep. Alex didn’t know who the other candidates were for this position, but she’d wager that they weren’t single moms who’d had to poke the radiator vents with a yardstick at ",
     "quote_time_case": "3:00 a.m.",
     "quote_last": " to prove that there weren’t any snakes hiding in the dark tunnels.",
     "title": "Nineteen Minutes",
@@ -262,36 +271,36 @@
   },
   {
     "time": "03:00",
-    "quote_first": "“And now it was ",
+    "quote_first": "And now it was ",
     "quote_time_case": "three o’clock",
-    "quote_last": ". The Antichrist had been on Earth for fifteen hours, and one angel and one demon had been drinking solidly for three of them.”",
+    "quote_last": ". The Antichrist had been on Earth for fifteen hours, and one angel and one demon had been drinking solidly for three of them.",
     "title": "Good Omens",
     "author": "Terry Pratchett, Neil Gaiman",
     "sfw": "yes"
   },
   {
     "time": "03:00",
-    "quote_first": "“When the clock struck ",
+    "quote_first": "When the clock struck ",
     "quote_time_case": "three",
-    "quote_last": ", Elizabeth felt that she must go, and<br>very unwillingly said so.”",
+    "quote_last": ", Elizabeth felt that she must go, and very unwillingly said so.",
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
     "sfw": "yes"
   },
   {
     "time": "03:00",
-    "quote_first": "“A gambling fever swept through the sophomore class and they bent over the bones till ",
+    "quote_first": "A gambling fever swept through the sophomore class and they bent over the bones till ",
     "quote_time_case": "three o’clock",
-    "quote_last": " many a sultry night.”",
+    "quote_last": " many a sultry night.",
     "title": "This Side of Paradise",
     "author": "F. Scott Fitzgerald",
     "sfw": "yes"
   },
   {
     "time": "03:00",
-    "quote_first": "&ldquo;She died this morning, very early, about ",
+    "quote_first": "She died this morning, very early, about ",
     "quote_time_case": "three o'clock",
-    "quote_last": ".&rdquo;",
+    "quote_last": ".",
     "title": "The Voyage Out",
     "author": "Virginia Woolf",
     "sfw": "yes"
@@ -327,23 +336,23 @@
     "time": "03:00",
     "quote_first": "At ",
     "quote_time_case": "three o' clock in the morning",
-    "quote_last": " Eurydice is bound to come into it. After all, why did I sit here like a telegrapher at a lost outpost if not to receive messages from everywhere about the lost Eurydice who was never mine to begin with but whom I lamented and sought continually both professionally and amateurishly. This is not a digression. Where I am at three o' clock in the morning - and by now every hour is three o' clock in the morning - there are no digressions, it&rsquo;s all one thing.",
+    "quote_last": " Eurydice is bound to come into it. After all, why did I sit here like a telegrapher at a lost outpost if not to receive messages from everywhere about the lost Eurydice who was never mine to begin with but whom I lamented and sought continually both professionally and amateurishly.",
     "title": "The Medusa Frequency",
     "author": "Russell Hoban",
     "sfw": "yes"
   },
   {
     "time": "03:00",
-    "quote_first": "But ",
-    "quote_time_case": "at three o’clock in the morning",
-    "quote_last": ", a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work &ndash; and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
+    "quote_first": "But at ",
+    "quote_time_case": "three o’clock in the morning",
+    "quote_last": ", a forgotten package has the same tragic importance as a death sentence, and the cure doesn’t work -- and in a real dark night of the soul it is always three o’clock in the morning, day after day.",
     "title": "The Crack-Up",
     "author": "F. Scott Fitzgerald",
     "sfw": "yes"
   },
   {
     "time": "03:00",
-    "quote_first": "Early mornings, my mother is about, drifting in her pale nightie, making herself a cup of tea in the kitchen. Water begins to boil in the kettle; it starts as a private, secluded sound, pure as rain, and grows to a steady, solipsistic bubbling. Not till she has had one cup of tea, so weak that it has a colour accidentally golden, can she begin her day. She is an insomniac. Her nights are wide-eyed and excited with worry. Even at ",
+    "quote_first": "Not till she has had one cup of tea, so weak that it has a colour accidentally golden, can she begin her day. She is an insomniac. Her nights are wide-eyed and excited with worry. Even at ",
     "quote_time_case": "three o'clock",
     "quote_last": " in the morning one might hear her eating a Bain Marie biscuit in the kitchen.",
     "title": "Afternoon Raag",
@@ -357,15 +366,6 @@
     "quote_last": "",
     "title": "Songs from the Other Side of the Wall",
     "author": "Dan Holloway",
-    "sfw": "yes"
-  },
-  {
-    "time": "03:00",
-    "quote_first": "In a real dark night of the soul it is always ",
-    "quote_time_case": "3 o'clock",
-    "quote_last": " in the morning.",
-    "title": "The Crack-Up",
-    "author": "F. Scott Fitzgerald",
     "sfw": "yes"
   },
   {
@@ -397,18 +397,18 @@
   },
   {
     "time": "03:00",
-    "quote_first": "Roused from her sleep, Freya Gaines groped for the switch of the vidphone; groggily she found it and snapped it on. &lsquo;Lo,&rsquo; she mumbled, wondering what time it was. She made out the luminous dial of the clock beside the bed. ",
-    "quote_time_case": "Three AM.",
-    "quote_last": " Good grief.",
+    "quote_first": "Roused from her sleep, Freya Gaines groped for the switch of the vidphone; groggily she found it and snapped it on. 'Lo,' she mumbled, wondering what time it was. She made out the luminous dial of the clock beside the bed. ",
+    "quote_time_case": "Three AM",
+    "quote_last": ". Good grief.",
     "title": "The Game Players of Titan",
     "author": "Philip K Dick",
     "sfw": "yes"
   },
   {
     "time": "03:00",
-    "quote_first": "Schact clears his mouth and swallows mightily. &lsquo;Tavis can&rsquo;t even regrout tile in the locker room without calling a Community meeting or appointing a committee. The Regrouting Committee&rsquo;s been dragging along since may. Suddenly they&rsquo;re pulling secret ",
+    "quote_first": "Schact clears his mouth and swallows mightily. 'Tavis can't even regrout tile in the locker room without calling a Community meeting or appointing a committee. The Regrouting Committee's been dragging along since may. Suddenly they're pulling secret ",
     "quote_time_case": "0300",
-    "quote_last": " milk-switches? It doesn&rsquo;t ring true, Jim.",
+    "quote_last": " milk-switches? It doesn't ring true, Jim.",
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
     "sfw": "yes"
@@ -424,9 +424,9 @@
   },
   {
     "time": "03:00",
-    "quote_first": "What&rsquo;s the time?&ldquo; said the man, eyeing George up and down with evident suspicion; &quot;why, if you listen you will hear it strike.&rdquo; George listened, and a neighbouring clock immediately obliged. &ldquo;But it&rsquo;s only gone ",
+    "quote_first": "What's the time? said the man, eyeing George up and down with evident suspicion, \"why, if you listen you will hear it strike.\" <br /> George listened, and a neighbouring clock immediately obliged. \"But it's only gone ",
     "quote_time_case": "three",
-    "quote_last": "!&rdquo; said George in an injured tone, when it had finished.",
+    "quote_last": "!\" said George in an injured tone, when it had finished.",
     "title": "Three Men in a Boat",
     "author": "Jerome K Jerome",
     "sfw": "yes"
@@ -444,7 +444,7 @@
     "time": "03:00",
     "quote_first": "You hearken, Missy. It’s ",
     "quote_time_case": "three o’clock",
-    "quote_last": " in the morning and I’ve got all my faculties as well as ever I had in my life. I know all my property and where the money’s put out. And I’ve made everything ready to change my mind, and do as I like at the last. Do you hear, Missy? I’ve got my faculties.”",
+    "quote_last": " in the morning and I’ve got all my faculties as well as ever I had in my life. I know all my property and where the money’s put out. And I’ve made everything ready to change my mind, and do as I like at the last. Do you hear, Missy? I’ve got my faculties.",
     "title": "Middlemarch",
     "author": "George Eliot",
     "sfw": "yes"

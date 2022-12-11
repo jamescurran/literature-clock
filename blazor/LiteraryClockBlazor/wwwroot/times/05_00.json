@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "time": "05:00",
     "quote_first": "At precisely ",
@@ -15,7 +15,7 @@
     "quote_last": " when you get to inspect the body.”",
     "title": "Life Before Man",
     "author": "Margaret Atwood",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "05:00",
@@ -46,11 +46,20 @@
   },
   {
     "time": "05:00",
-    "quote_first": "‘According to Leon … the day after tomorrow. The attack is scheduled for the day after tomorrow at about ",
+    "quote_first": "According to Leon … the day after tomorrow. The attack is scheduled for the day after tomorrow at about ",
     "quote_time_case": "five o’clock in the morning",
-    "quote_last": "’ His face was still in shadow.",
+    "quote_last": ". His face was still in shadow.",
     "title": "A Trail Through Time",
     "author": "Jodi Taylor",
+    "sfw": "yes"
+  },
+  {
+    "time": "05:00",
+    "quote_first": "Sixsmith,<br>Sitting at my escritoire in my dressing gown. The church bell chimes ",
+    "quote_time_case": "five",
+    "quote_last": ". Another thirsty dawn. My candle is burnt away. A tiring night turned inside out.",
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
     "sfw": "yes"
   },
   {
@@ -76,7 +85,7 @@
     "quote_first": "My grandfather Arthur once took me fishing. I was seven.<br>I suppose he must have gone fishing frequently, although I never recall him bringing back any fish, nor indeed, any other fishing trips.<br>He woke me up at ",
     "quote_time_case": "five",
     "quote_last": ", before the sun was up.",
-    "title": "The Comical Tragedy or Tragical Comedy of Mr Punch",
+    "title": "The Comical Tragedy or Tragical Comedy of Mr. Punch",
     "author": "Neil Gaiman",
     "sfw": "yes"
   },
@@ -105,16 +114,7 @@
     "quote_last": " this morning with V.A.‘s Luger. But I saw you, my dear, dear fellow! How touched I am that you care so much! On the belfry’s lookout, yesterday, at sunset. Sheerest fluke you didn’t see me first.",
     "title": "Cloud Atlas",
     "author": "David Mitchell",
-    "sfw": "yes"
-  },
-  {
-    "time": "05:00",
-    "quote_first": "Each night at ",
-    "quote_time_case": "five o’clock",
-    "quote_last": ", like clockwork, your father says, ’What’s for dinner?’ and I grit my teeth so hard I can feel it in my jaw.” She stopped, embarrassed. “Gosh, Mum,” said Brooke. She sounded shocked.",
-    "title": "Apples Never Fall",
-    "author": "Liane Moriarty",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "05:00",
@@ -145,27 +145,9 @@
   },
   {
     "time": "05:00",
-    "quote_first": "",
-    "quote_time_case": "Five o'clock",
-    "quote_last": " had hardly struck on the morning of the 19th of January, when Bessie brought a candle into my closet and found me already up and nearly dressed.",
-    "title": "Jane Eyre",
-    "author": "Charlotte Brontë",
-    "sfw": "yes"
-  },
-  {
-    "time": "05:00",
-    "quote_first": "",
-    "quote_time_case": "Five o'clock",
-    "quote_last": " had hardly struck on the morning of the 19th of January, when Bessie brought a candle into my closet and found me already up and nearly dressed. I had risen half-an-hour before her entrance, and had washed my face, and put on my clothes by the light of a half-moon just setting, whose rays streamed through the narrow window near my crib.",
-    "title": "Jane Eyre",
-    "author": "Charlotte Brontë",
-    "sfw": "yes"
-  },
-  {
-    "time": "05:00",
     "quote_first": "It was in the township of Dunwich, in a large and hardly inhabited farmhouse set against a hillside 4 miles from the village and a mile and a half from any other dwelling, that Wilbur Whately was born at ",
     "quote_time_case": "5 a.m.",
-    "quote_last": " on Sunday, 2 February, 1913. The date was recalled because it was Candlemas, which people in Dunwich curiously observe under another name&hellip;",
+    "quote_last": " on Sunday, 2 February, 1913. The date was recalled because it was Candlemas, which people in Dunwich curiously observe under another name.",
     "title": "The Dunwich Horror",
     "author": "H.P. Lovecraft",
     "sfw": "yes"
@@ -174,16 +156,16 @@
     "time": "05:00",
     "quote_first": "Just after ",
     "quote_time_case": "five o'clock",
-    "quote_last": " on this chill September morning, the fishmonger&rsquo;s cart, containing Kirsten and Emilia and such possessions as they have been able to assemble in the time allowed to them, is driven out of the gates of Rosenborg?",
+    "quote_last": " on this chill September morning, the fishmonger's cart, containing Kirsten and Emilia and such possessions as they have been able to assemble in the time allowed to them, is driven out of the gates of Rosenborg?",
     "title": "Music and Silence",
     "author": "Rose Tremain",
     "sfw": "yes"
   },
   {
     "time": "05:00",
-    "quote_first": "The cold eye of the Duke was dazzled by the gleaming of a thousand jewels that sparkled on the table. His ears were filled with chiming as the clocks began to strike. &ldquo;One!&rdquo; said Hark. &ldquo;Two!&rdquo; cried Zorn of Zorna. &ldquo;Three!&rdquo; the Duke&rsquo;s voice almost whispered. &lsquo;Four!&ldquo; sighed Saralinda. &quot;",
+    "quote_first": "The cold eye of the Duke was dazzled by the gleaming of a thousand jewels that sparkled on the table. His ears were filled with chiming as the clocks began to strike. \"One!\" said Hark. \"Two!\" cried Zorn of Zorna. \"Three!\" the Duke's voice almost whispered. \"Four!\" sighed Saralinda. \"",
     "quote_time_case": "Five",
-    "quote_last": "!&rdquo; the Golux crowed, and pointed at the table. &ldquo;The task is done, the terms are met,&rdquo; he said.",
+    "quote_last": "!\" the Golux crowed, and pointed at the table. \"The task is done, the terms are met,\" he said.\"",
     "title": "The 13 Clocks",
     "author": "James Thurber",
     "sfw": "yes"
@@ -208,7 +190,7 @@
   },
   {
     "time": "05:00",
-    "quote_first": "What causes young people to &ldquo;come out,&rdquo; but the noble ambition of matrimony? What sends them trooping to watering-places? What keeps them dancing till ",
+    "quote_first": "What causes young people to \"come out,\" but the noble ambition of matrimony? What sends them trooping to watering-places? What keeps them dancing till ",
     "quote_time_case": "five o'clock",
     "quote_last": " in the morning through a whole mortal season?",
     "title": "Vanity Fair",

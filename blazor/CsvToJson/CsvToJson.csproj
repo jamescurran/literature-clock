@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\litclock_annotated.csv" Link="litclock_annotated.csv">
+    <None Include="..\..\litclock_annotated.csv" Link="litclock_annotated.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="..\profanity_patterns.R" Link="profanity_patterns.R">
