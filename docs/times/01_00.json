@@ -5,7 +5,7 @@
     "quote_time_case": "one o’clock in the morning",
     "quote_last": ".)",
     "title": "The Silver Chair",
-    "author": "C.S.Lewis",
+    "author": "C.S. Lewis",
     "sfw": "yes"
   },
   {
@@ -13,7 +13,7 @@
     "quote_first": "He shut down at ",
     "quote_time_case": "one o’clock",
     "quote_last": ". He had written two pages, and the feeling that he was reverting to the nervous and neurotic man who’d almost burned down his house three years ago was getting harder to dismiss.",
-    "title": "If it Bleeds",
+    "title": "If It Bleeds",
     "author": "Stephen King",
     "sfw": "yes"
   },
@@ -31,7 +31,7 @@
     "quote_first": "I want to shout and scream, but I would be screaming at a wall. I storm off to my bedroom. Thirty minutes later, she leaves the house with Gboyega. <br>She doesn’t return till ",
     "quote_time_case": "1 a.m.",
     "quote_last": "<br>I don’t sleep till 1 a.m.",
-    "title": "My Sister, The Serial Killer",
+    "title": "My Sister, the Serial Killer",
     "author": "Oyinkan Braithwaite",
     "sfw": "yes"
   },
@@ -105,16 +105,7 @@
     "quote_last": ". He swallowed three Xanax. So ended his first night of freedom.",
     "title": "Atomised",
     "author": "Michel Houellebecq",
-    "sfw": "yes"
-  },
-  {
-    "time": "01:00",
-    "quote_first": "I looked attentively at her, as she put that singular question to me. It was then ",
-    "quote_time_case": "nearly one o’clock",
-    "quote_last": ". All I could discern distinctly by the moonlight was a colourless, youthful face, meagre and sharp to look at about the cheeks and chin; large, grave, wistfully attentive eyes; nervous, uncertain lips; and light hair of a pale, brownish-yellow hue.",
-    "title": "The Woman in White",
-    "author": "Wilkie Collins",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "01:00",
@@ -148,7 +139,7 @@
     "quote_first": "The station was more crowded than he had expected to find it at - what was it? he looked up at the clock - ",
     "quote_time_case": "one o’clock in the morning",
     "quote_last": ". What in the name of God was he doing on King’s Cross station at one o’clock in the morning, with no cigarette and no home that he could reasonably expect to get into without being hacked to death by a homicidal bird?",
-    "title": "The Long Dark Tea-time of the Soul",
+    "title": "The Long Dark Tea-Time of the Soul",
     "author": "Douglas Adams",
     "sfw": "yes"
   }

@@ -31,7 +31,7 @@
     "quote_first": "Holly gets up at ",
     "quote_time_case": "three o’clock in the morning",
     "quote_last": ". She’s packed, she’s printed out her Delta ticket, she doesn’t have to be at the airport until seven and it’s a short ride, but she can’t sleep anymore.",
-    "title": "If it Bleeds",
+    "title": "If It Bleeds",
     "author": "Stephen King",
     "sfw": "yes"
   },
@@ -103,7 +103,7 @@
     "quote_first": "I found myself typing “serial killer” into the Google search box at ",
     "quote_time_case": "3 a.m.",
     "quote_last": "",
-    "title": "My Sister, The Serial Killer",
+    "title": "My Sister, the Serial Killer",
     "author": "Oyinkan Braithwaite",
     "sfw": "yes"
   },
@@ -123,15 +123,6 @@
     "quote_last": ", Courfeyrec chanced to be passing along the Rue Mouffetard in company with Bossuet. The snow had redoubled in violence, and filled the air.",
     "title": "Les Misérables",
     "author": "Victor Hugo",
-    "sfw": "yes"
-  },
-  {
-    "time": "03:00",
-    "quote_first": "My dear Mr. Sherlock Holmes:<br>There has been a bad business during the night at ",
-    "quote_time_case": "3",
-    "quote_last": ", Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss.",
-    "title": "A Study in Scarlet",
-    "author": "Sir Arthur Conan Doyle",
     "sfw": "yes"
   },
   {
@@ -204,7 +195,7 @@
     "quote_last": " and we have a couple of trollops here who are doing somersaults on the bare floor. Fillmore is walking around naked with a goblet in his hand, and that paunch of his is drumtight, hard as a fistula.",
     "title": "Tropic of Cancer",
     "author": "Henry Miller",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "03:00",
@@ -319,7 +310,7 @@
     "quote_first": "According to her watch it was shortly after ",
     "quote_time_case": "three o’clock",
     "quote_last": ", and according to everything else it was night-time.",
-    "title": "The Long Dark Tea-time of the Soul",
+    "title": "The Long Dark Tea-Time of the Soul",
     "author": "Douglas Adams",
     "sfw": "yes"
   },
@@ -330,7 +321,7 @@
     "quote_last": " I was walking the floor and listening to Katchaturian working in a tractor factory. He called it a violin concerto. I called it a loose fan belt and the hell with it.",
     "title": "The Long Goodbye",
     "author": "Raymond Chandler",
-    "sfw": "yes"
+    "sfw": "no"
   },
   {
     "time": "03:00",
@@ -406,7 +397,7 @@
   },
   {
     "time": "03:00",
-    "quote_first": "Schact clears his mouth and swallows mightily. ‘Tavis can’t even regrout tile in the locker room without calling a Community meeting or appointing a committee. The Regrouting Committee’s been dragging along since may. Suddenly they’re pulling secret ",
+    "quote_first": "Schact clears his mouth and swallows mightily. ‘Tavis can’t even regrout tile in the locker room without calling a Community meeting or appointing a committee. The Regrouting Committee’s been dragging along since May. Suddenly they’re pulling secret ",
     "quote_time_case": "0300",
     "quote_last": " milk-switches? It doesn’t ring true, Jim.",
     "title": "Infinite Jest",
@@ -428,7 +419,7 @@
     "quote_time_case": "three",
     "quote_last": "!” said George in an injured tone, when it had finished.",
     "title": "Three Men in a Boat",
-    "author": "Jerome K Jerome",
+    "author": "Jerome K. Jerome",
     "sfw": "yes"
   },
   {

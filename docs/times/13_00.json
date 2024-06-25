@@ -5,7 +5,7 @@
     "quote_time_case": "one o’clock",
     "quote_last": "”.",
     "title": "The Voyage of the Dawn Treader",
-    "author": "C.S.Lewis",
+    "author": "C.S. Lewis",
     "sfw": "yes"
   },
   {
@@ -31,7 +31,7 @@
     "quote_first": "He shut down at ",
     "quote_time_case": "one o’clock",
     "quote_last": ". He had written two pages, and the feeling that he was reverting to the nervous and neurotic man who’d almost burned down his house three years ago was getting harder to dismiss.",
-    "title": "If it Bleeds",
+    "title": "If It Bleeds",
     "author": "Stephen King",
     "sfw": "yes"
   },
@@ -118,9 +118,9 @@
   },
   {
     "time": "13:00",
-    "quote_first": "“I think,” he said, with a triumphant smile, “that I may safely expect to find the person I seek in the dining-room, fair lady.”<br/>“There may be more than ",
-    "quote_time_case": "one",
-    "quote_last": ".”<br/>“Whoever is there, as the clock strikes one, will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the `Scarlet Pimpernel.’”",
+    "quote_first": "“I think,” he said, with a triumphant smile, “that I may safely expect to find the person I seek in the dining-room, fair lady.”<br/>“There may be more than one.”<br/>“Whoever is there, as the clock strikes ",
+    "quote_time_case": "<time/>one<\/time>",
+    "quote_last": ", will be shadowed by one of my men; of these, one, or perhaps two, or even three, will leave for France to-morrow. One of these will be the `Scarlet Pimpernel.’”",
     "title": "The Scarlet Pimpernel",
     "author": "Baroness Orczy",
     "sfw": "yes"
@@ -164,7 +164,7 @@
   {
     "time": "13:00",
     "quote_first": "Gottfried Rembke arrived at ",
-    "quote_time_case": "1pm",
+    "quote_time_case": "1 pm",
     "quote_last": " precisely. The moment he walked into the restaurant, handed his coat to the waiter, they knew it was him. The solid, stocky body, the gleaming pate, the open expression, the vigorous handshake: everything about him radiated ease and enthusiasm.",
     "title": "Platform",
     "author": "Michel Houellebecq",
@@ -184,7 +184,7 @@
     "quote_first": "It was a bright cold day in April, and the clocks were striking ",
     "quote_time_case": "thirteen",
     "quote_last": ".",
-    "title": "Nineteen Eighty-Four",
+    "title": "1984",
     "author": "George Orwell",
     "sfw": "yes"
   },

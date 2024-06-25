@@ -1,6 +1,15 @@
 [
   {
     "time": "19:15",
+    "quote_first": "“Your holiness,” he called.<br/>“Well?”<br/>“The horses are here; it’s time for the evening service.”<br/>“What o’clock is it?”<br/>“A ",
+    "quote_time_case": "quarter past seven",
+    "quote_last": ".”",
+    "title": "The Bishop",
+    "author": "Anton Pavlovich Chekhov",
+    "sfw": "yes"
+  },
+  {
+    "time": "19:15",
     "quote_first": "The raft drifted steadily north. “There must be a current.” The current was carrying them north, toward the hotel. He looked at his watch and was astonished to see it was ",
     "quote_time_case": "fifteen minutes past seven",
     "quote_last": ". Only fifteen minutes had passed since he had last looked at his watch. It seemed like two hours.",
@@ -32,7 +41,7 @@
     "quote_time_case": "7:15",
     "quote_last": ". (Appear to have lost my watch without realising it, had to drive into town to buy another.)",
     "title": "The Voices of Time",
-    "author": "JG Ballard",
+    "author": "J.G. Ballard",
     "sfw": "yes"
   },
   {
@@ -46,7 +55,7 @@
   },
   {
     "time": "19:15",
-    "quote_first": "The party was to begin at seven. The invitations gave the hour as six-thirty because the famly knew everyone would come a little late, so as not to be the first to arrive. .. By ",
+    "quote_first": "The party was to begin at seven. The invitations gave the hour as six-thirty because the family knew everyone would come a little late, so as not to be the first to arrive. .. By ",
     "quote_time_case": "seven-fifteen",
     "quote_last": " not another soul could squeeze into the house.",
     "title": "The Elderly Lady",

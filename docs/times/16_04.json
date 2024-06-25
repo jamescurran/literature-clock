@@ -1,11 +1,20 @@
 [
   {
     "time": "16:04",
-    "quote_first": "",
-    "quote_time_case": "A little after four o’clock",
-    "quote_last": ", Pippa meandered over to Dot’s house carrying a bottle of wine she had been keeping in reserve and wondering if she could possibly be pregnant in spite of the vestigial coil still lodged in her uterus like astronaut litter abandoned on the moon.",
-    "title": "The Private Lives of Pippa Lee",
-    "author": "Rebecca Miller",
+    "quote_first": "Krantz didn’t stir for the next two hours, aware that two of the guards would be waiting impatiently to accompany her to the bathroom and collect their nightly stipend. But the timing had to suit her. She would cater for their needs at ",
+    "quote_time_case": "four minutes past four",
+    "quote_last": ", not before, when one would receive forty dollars, and he would make sure that the other got a packet of Benson &amp; Hedges.",
+    "title": "False Impression",
+    "author": "Jeffrey Archer",
+    "sfw": "yes"
+  },
+  {
+    "time": "16:04",
+    "quote_first": "At ",
+    "quote_time_case": "four past four",
+    "quote_last": " he was aware of a rustling train’s rush down the steps, and now was like a man with his neck on the block, awaiting the axe.",
+    "title": "The Lord of the Sea",
+    "author": "M.P. Shiel",
     "sfw": "yes"
   }
 ]

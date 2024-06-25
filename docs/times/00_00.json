@@ -1,6 +1,51 @@
 [
   {
     "time": "00:00",
+    "quote_first": "While they were drinking at the fountain, church clocks began to strike ",
+    "quote_time_case": "midnight",
+    "quote_last": ". Missis said gladly, “Oh, Pongo, it’s tomorrow! Now we shall be with our puppies today!”",
+    "title": "The 101 Dalmatians",
+    "author": "Dodie Smith",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "At ",
+    "quote_time_case": "midnight",
+    "quote_last": " the entrances were thrown wide, and the rabble, surging in, occupied the quarters assigned to them, from which nothing less than an earthquake or an army with spears could have dislodged them. They dozed the night away on the benches, and breakfasted there; and there the close of the exercises found them, patient and sight-hungry as in the beginning.",
+    "title": "Ben-Hur",
+    "author": "Lew Wallace",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "“I thought you asleep,” he said, presently.<br/>“Sleep is for old people and little children, and I came out to look at my friends, the stars in the south—those now holding the curtains of ",
+    "quote_time_case": "midnight",
+    "quote_last": " over the Nile. But confess yourself surprised!”",
+    "title": "Ben-Hur",
+    "author": "Lew Wallace",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "Ren said, “If you go to the football field at ",
+    "quote_time_case": "midnight",
+    "quote_last": " on Halloween and say his name three times, his ghost is supposed to appear.”",
+    "title": "Copper River",
+    "author": "William Kent Krueger",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
+    "quote_first": "“You, Willi, my friend,” said Pastor Fritz softly, “you who sit in ",
+    "quote_time_case": "midnight",
+    "quote_last": " darkness at midday, is this Jesus Christ a horn of salvation, a light in your darkness?”",
+    "title": "Bright Valley of Love",
+    "author": "Edna Hong",
+    "sfw": "yes"
+  },
+  {
+    "time": "00:00",
     "quote_first": "You take a black cat—isn’t that it?—that does not have even one white hair (you know this), and you bind his four paws, and then you take him at ",
     "quote_time_case": "midnight",
     "quote_last": " to a crossroads and you cry out in a loud voice:",
@@ -14,7 +59,7 @@
     "quote_time_case": "midnight",
     "quote_last": ", to receive you.",
     "title": "The Horse and His Boy",
-    "author": "C.S.Lewis",
+    "author": "C.S. Lewis",
     "sfw": "yes"
   },
   {
@@ -23,7 +68,7 @@
     "quote_time_case": "midnight",
     "quote_last": " escape she forgot her sleepiness.",
     "title": "The Silver Chair",
-    "author": "C.S.Lewis",
+    "author": "C.S. Lewis",
     "sfw": "yes"
   },
   {
@@ -283,7 +328,7 @@
     "quote_first": "But, odder still - Big Ben had once again struck ",
     "quote_time_case": "midnight",
     "quote_last": ". The time outside still corresponded to that registered by the stopped gilt clock, inside. Inside and outside matched exactly, but both were badly wrong. H’m.",
-    "title": "Nights At The Circus",
+    "title": "Nights at the Circus",
     "author": "Angela Carter",
     "sfw": "yes"
   },
