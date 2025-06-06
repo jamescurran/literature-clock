@@ -30,7 +30,7 @@
     "time": "02:00",
     "quote_first": "“The clock in the centre on the wall in the cafe chimed to announce it was ",
     "quote_time_case": "Two o’clock in the morning",
-    "quote_last": ".  In the middle of the night, everything was silent.”",
+    "quote_last": ". In the middle of the night, everything was silent.”",
     "title": "Before the Coffee Gets Cold: Tales from the Cafe",
     "author": "Toshikazu Kawaguchi",
     "sfw": "yes"
@@ -222,6 +222,15 @@
     "quote_last": ", Ivan Fyodorovich also went to bed with the firm resolve of falling quickly asleep, as he felt horribly exhausted.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
+    "sfw": "yes"
+  },
+  {
+    "time": "02:00",
+    "quote_first": "They couldn’t pin anything on Moist, but in the cold, wet light of ",
+    "quote_time_case": "two a.m.",
+    "quote_last": ", he could imagine bloody Commander Vimes worrying at this, picking away at it in that thick-headed way of his.",
+    "title": "Making Money",
+    "author": "Terry Pratchett",
     "sfw": "yes"
   }
 ]
